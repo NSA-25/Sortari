@@ -1,2 +1,2 @@
 # Sortari
-test
+Tema 1: Algoritmi de sortare
